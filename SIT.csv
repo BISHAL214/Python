@@ -1,0 +1,15 @@
+,Region,Exchange,Index,Currency
+0,United States,New York Stock Exchange,NYA,USD
+1,United States,NASDAQ,IXIC,USD
+2,Hong Kong,Hong Kong Stock Exchange,HSI,HKD
+3,China,Shanghai Stock Exchange,000001.SS,CNY
+4,Japan,Tokyo Stock Exchange,N225,JPY
+5,Europe,Euronext,N100,EUR
+6,China,Shenzhen Stock Exchange,399001.SZ,CNY
+7,Canada,Toronto Stock Exchange,GSPTSE,CAD
+8,India,National Stock Exchange of India,NSEI,INR
+9,Germany,Frankfurt Stock Exchange,GDAXI,EUR
+10,Korea,Korea Exchange,KS11,KRW
+11,Switzerland,SIX Swiss Exchange,SSMI,CHF
+12,Taiwan,Taiwan Stock Exchange,TWII,TWD
+13,South Africa,Johannesburg Stock Exchange,J203.JO,ZAR
